@@ -1,2 +1,2 @@
-# bilibili_DigitalCircuits
+# B站-数字逻辑资料【收藏不迷路】
 B站-数电的ppt
